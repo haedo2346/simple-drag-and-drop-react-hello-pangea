@@ -1,0 +1,10 @@
+li {
+  border: 2px solid rgb(255, 28, 3);
+  padding: 0.5rem;
+}
+
+ul {
+  list-style: none;
+  padding: 1rem;
+  border: 2px solid rgb(193, 115, 60);
+}
